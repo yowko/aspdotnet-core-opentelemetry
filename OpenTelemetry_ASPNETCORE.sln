@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenTelemetry_ASPNETCORE", "OpenTelemetry_ASPNETCORE\OpenTelemetry_ASPNETCORE.csproj", "{D6FE30DD-F2E2-4DF5-A4D9-23B3C25861FD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaegerSample", "JaegerSample\JaegerSample.csproj", "{D6FE30DD-F2E2-4DF5-A4D9-23B3C25861FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZipkinSample", "ZipkinSample\ZipkinSample.csproj", "{3D45A971-3E28-4E10-88ED-18048160AB7A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,5 +14,9 @@ Global
 		{D6FE30DD-F2E2-4DF5-A4D9-23B3C25861FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D6FE30DD-F2E2-4DF5-A4D9-23B3C25861FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D6FE30DD-F2E2-4DF5-A4D9-23B3C25861FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D45A971-3E28-4E10-88ED-18048160AB7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D45A971-3E28-4E10-88ED-18048160AB7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D45A971-3E28-4E10-88ED-18048160AB7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D45A971-3E28-4E10-88ED-18048160AB7A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

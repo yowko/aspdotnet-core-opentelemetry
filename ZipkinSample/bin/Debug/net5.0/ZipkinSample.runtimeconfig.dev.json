@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/yowko.tsai/.dotnet/store/|arch|/|tfm|",
+      "/Users/yowko.tsai/.nuget/packages"
+    ]
+  }
+}
